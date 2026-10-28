@@ -1,1 +1,3 @@
 27 de octubre: revisión de ramas para el proyecto, librería numpy
+
+29 de octubre: librería pandas
